@@ -1,4 +1,6 @@
 # html-boilerplate
-training project
-10:28 committed a new update including img to site
-Added stylesheet 2:58
+Practice Project
+
+This project is an accumulation of my applied knowledge and creativity.
+
+The goal is to practice and improve my skills to eventually work in a team to build and work on existing apps/projects.
