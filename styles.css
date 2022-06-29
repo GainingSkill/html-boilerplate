@@ -4,3 +4,7 @@
     text-align: center;
     text-shadow: -3px 3px 0px black; 
 }
+.google {
+    text-align: center;
+    /*-ms-flex-item-align: center;
+}
