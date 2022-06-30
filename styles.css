@@ -3,6 +3,9 @@
     color: white;
     text-align: center;
     text-shadow: -3px 3px 0px black; 
+    padding: 80px;
+    border: solid 40px blue;
+    margin: 10px;
 }
 .google {
     text-align: center;
