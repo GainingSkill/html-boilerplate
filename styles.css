@@ -6,6 +6,9 @@
     padding: 80px;
     border: solid 40px blue;
     margin: 0%;
+    display: flex;
+    height: 500px;
+    width: 500px;
 }
 .google {
     text-align: center;
