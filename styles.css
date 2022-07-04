@@ -17,25 +17,31 @@
 }
 
 .navbar {
-    background-color: cornflowerblue;
+    /* background-color: cornflowerblue;*/
     display: flex;
-    text-align: center;
+    /*text-align: center;
     width: auto;
     border: 10px solid blue;
     padding: 20px;
-    margin: 10px;
+    margin: 10px;*/
 
+    /*Using navbar as a flexbox to nest flexbox items below on stretch*/
 }
 
 .stretch {
-    border: 3px solid white;
+    background-color: cornflowerblue;
+    border: 5px solid blue;
+    border-radius: 10px;
+    font-weight: bold;
+    color: aliceblue;
+    border-style: groove;
+    text-shadow: 1px 2px grey;
     width: auto;
     height: auto;
-    margin: 10px;
-    padding: 2px;
-    display: flex;
+    margin: 1px;
+    padding: 5px;
     text-align: center;
     font-size: 30px;
-    flex: 2 2;
+    flex: 1;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
