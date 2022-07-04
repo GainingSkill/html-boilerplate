@@ -5,7 +5,7 @@
     text-shadow: -3px 3px 0px black; 
     padding: 80px;
     border: solid 40px blue;
-    margin: 0%;
+    margin: 10px;
     display: flex;
     height: 500px;
     width: 500px;
@@ -13,5 +13,29 @@
 }
 .google {
     text-align: center;
-    /*-ms-flex-item-align: center;
+    /* this is how you take a note and end it*/
+}
+
+.navbar {
+    background-color: cornflowerblue;
+    display: flex;
+    text-align: center;
+    width: auto;
+    border: 10px solid blue;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+.stretch {
+    border: 3px solid white;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    padding: 2px;
+    display: flex;
+    text-align: center;
+    font-size: 30px;
+    flex: 2 2;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
