@@ -2,7 +2,7 @@
     background-color: rgb(23, 154, 255);
     color: white;
     text-align: center;
-    text-shadow: -3px 3px 0px black; 
+    text-shadow: -3px 3px 6px black; 
     padding: 80px;
     border: solid 40px blue;
     margin: 10px;
@@ -14,6 +14,11 @@
 .google {
     text-align: center;
     /* this is how you take a note and end it*/
+}
+button {
+    border-radius: 10px;
+    border: 6px solid black;
+    justify-content: center;
 }
 
 .navbar {
@@ -35,10 +40,11 @@
     font-weight: bold;
     color: aliceblue;
     border-style: groove;
-    text-shadow: 1px 2px grey;
+    text-shadow: 2px 3px 10px black;
+    /*text shadow third px is for blur*/
     width: auto;
     height: auto;
-    margin: 1px;
+    margin: 4px;
     padding: 5px;
     text-align: center;
     font-size: 30px;
