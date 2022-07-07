@@ -68,10 +68,12 @@ font-size: 50px;
 text-shadow: 3px 3px 3px black;
 /*gap: 100px;*/
 /*flex-direction: row-reverse;*/
+/*flex-wrap: wrap;*/
+flex-flow: row wrap;
 }
 
 .cust {
-flex: 1;
+/*flex: 1;*/
 width: 300px;
 height:80px;
 box-shadow: 0px 0px 10px cornflowerblue;
